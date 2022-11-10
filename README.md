@@ -3,5 +3,5 @@
 - 👯 I really enjoy terraform, Python, bash and Groovy.
 - 🐧 I love Linux, Readhat and Centos.
 - ☁ I love cloud, have good experiance with AWS Cloud.
-- 🤔 Learning rego for writing spacelift policies.
+- 🤔 Recentaly learned rego for policies. 
 - 🌱 Currently learning Javascript.
