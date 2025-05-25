@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Satish Tripathi 
 
 ## DevOps/SRE Engineer Working from Home India
+![mindriftfall](https://github.com/user-attachments/assets/20e22cc1-0538-4bea-9ec6-117fad784e54)
+
 
 Connect Me on [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-tripathi-91568b112/)
 
