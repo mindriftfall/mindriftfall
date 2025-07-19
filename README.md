@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Satish Tripathi 
 
-## DevOps/SRE Engineer Working from Home India
+## Senior SRE Working from Home India
 <img src="https://github.com/user-attachments/assets/20e22cc1-0538-4bea-9ec6-117fad784e54" width="400" height="400">
 
 
