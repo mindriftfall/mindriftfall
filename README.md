@@ -9,7 +9,7 @@ Connect Me on [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-th
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mindriftfall&theme=dark)](https://git.io/streak-stats)
 
-To Know about my projects: [infinitepi-io](https://github.com/glg-satish-tripathi)
+To Know about my projects: [infinitepi-io](https://github.com/orgs/infinitepi-io/repositories)
 
 My Other GitHub profile: [glg-satish-tripathi](https://github.com/glg-satish-tripathi)
 
